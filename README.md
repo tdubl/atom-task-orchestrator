@@ -76,7 +76,9 @@ npx ts-node src/worker.ts
 
 ## Environment Variables
 DATABASE_URL=your_neon_connection_string
+
 REDIS_URL=your_upstash_tcp_connection_string
+
 PORT=3000
 
 ---
